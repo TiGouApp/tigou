@@ -1,6 +1,6 @@
 # 踢狗量化
 
-> 踢狗量化是为 A 股散户投资者量身定制的价值投资智能交易系统，踢狗 App 下载地址：[https://gitee.com/TiGou/tigou_quant/releases](https://gitee.com/TiGou/tigou_quant/releases)。踢狗量化智能交易系统目前遵循的是踢狗法则，使用前请务必阅读踢狗法则进行选股。
+> 踢狗量化是为 A 股散户投资者量身定制的价值投资智能交易系统，踢狗 App [**下载地址**](https://gitee.com/TiGou/tigou_quant/releases)。踢狗量化智能交易系统目前遵循的是踢狗法则，使用前请务必阅读踢狗法则进行选股，如有疑问，请加微信：TigouApp。
 
 ## 什么是踢狗法则
 
