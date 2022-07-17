@@ -1,6 +1,6 @@
-# 踢狗法则
+# 踢狗量化
 
-> 首先，请容许播报一则广告: [**踢狗法则官方开发的 踢狗 App 正在众筹**](./crowdfunding.md#踢狗-app-众筹说明)，参与众筹可获得踢狗 App 终身会员等多项福利！
+> 踢狗量化是为 A 股散户投资者量身定制的价值投资智能交易系统，踢狗 App 下载地址：[https://gitee.com/TiGou/tigou_quant/releases](https://gitee.com/TiGou/tigou_quant/releases)。踢狗量化智能交易系统目前遵循的是踢狗法则，使用前请务必阅读踢狗法则进行选股。
 
 ## 什么是踢狗法则
 
