@@ -1,18 +1,14 @@
-# 踢狗量化 App 已发布新版本 0.1.17
+# 踢狗量化 App 已发布新版本 0.2.0
 
 > 新版本支持支持系统平台: Windows / 安卓(Android) && macOS && iOS(iPhone/iPad)
 
-1. Windows 请下载 [**tigou_Windows_v0.1.17.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1128791/download/tigou_windows_v0.1.17.zip) ，解压缩后，双击运行 踢狗.exe 即可。
+1. Windows 请下载 [**tigou_Windows_v0.2.0.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1138115/download/tigou_Windows_v0.2.0.zip) ，解压缩后，双击运行 踢狗.exe 即可。
 
-1. 安卓请下载 [**tigou_Android_v0.1.17.apk**](https://gitee.com/TiGou/tigou_quant/attach_files/1128797/download/tigou_Android_v0.1.17.apk) 进行安装，或 前往[**蒲公英下载安装**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftigou_android) 。
+1. 安卓请下载 [**tigou_Android_v0.2.0.apk**](https://gitee.com/TiGou/tigou_quant/attach_files/1138096/download/tigou_Android_v0.2.0.apk) 进行安装，或 前往[**蒲公英下载安装**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftigou_android) 。
 
-1. macOS 请下载 [**tigou_macOS_v0.1.17.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1128796/download/tigou_macOS_v0.1.17.zip) ，解压缩后，将 踢狗.app 拷贝到 应用程序(Applications) 文件夹即可
+1. macOS 请下载 [**tigou_macOS_v0.2.0.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1138097/download/tigou_macOS_v0.2.0.zip) ，解压缩后，将 踢狗.app 拷贝到 应用程序(Applications) 文件夹即可
 
 1. iOS 设备因为证书有数量限制的原因，需要购买至尊会员（￥ 5880，终身会员，免费升级，满一年后全额退还），如有需要请先到这里 [**提交 iOS 设备 UDID**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftools%2Fudid%3Fsl%3Dn7DO) ，然后添加微信: TigouApp 索要安装地址。
-
-# 踢狗量化
-
-> 踢狗量化是为 A 股散户投资者量身定制的价值投资智能交易系统，踢狗 App [**下载地址**](https://gitee.com/TiGou/tigou_quant/releases)。踢狗量化智能交易系统目前遵循的是踢狗法则，使用前请务必阅读踢狗法则进行选股，如有疑问，请加微信：TigouApp。
 
 ## 什么是踢狗法则
 
