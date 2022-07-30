@@ -1,4 +1,4 @@
-# 踢狗量化 App 已发布新版本 0.2.1
+# 踢狗量化 App 已发布新版本 0.2.2
 
 > 新版本支持支持系统平台: Windows / 安卓(Android) && macOS && iOS(iPhone/iPad)
 
