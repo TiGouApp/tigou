@@ -2,7 +2,9 @@
 
 > 新版本支持系统平台: Windows / 安卓(Android) && macOS && iOS(iPhone/iPad)
 
-1. Windows 请下载 **tigou_Windows_0.2.3.zip** ，解压缩后，双击运行 踢狗.exe 即可。
+> 提示: 新版本发布后，所有旧版本下载地址都会失效。
+
+1. Windows 请下载 [**tigou_Windows_0.2.3.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1142724/download/tigou_Windows_0.2.3.zip) ，解压缩后，双击运行 踢狗.exe 即可。
 
 1. 安卓请下载 [**tigou_Android_0.2.3.apk**](https://gitee.com/TiGou/tigou_quant/attach_files/1142718/download/tigou_Android_0.2.3.apk) 进行安装，或 前往[**蒲公英下载安装**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftigou_android) 。
 
