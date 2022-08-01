@@ -1,7 +1,7 @@
 # 踢狗量化 App 已发布新版本 0.2.3
 
-> 新版本支持系统平台: Windows / 安卓(Android) && macOS && iOS(iPhone/iPad)
-
+> 新版本支持系统平台: Windows && 安卓(Android) && macOS && iOS(iPhone/iPad)
+> 如有任何疑问或建议请联系作者**微信: TigouApp**
 > 提示: 新版本发布后，所有旧版本下载地址都会失效。
 
 1. Windows 请下载 [**tigou_Windows_0.2.3.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1142724/download/tigou_Windows_0.2.3.zip) ，解压缩后，双击运行 踢狗.exe 即可。
@@ -10,7 +10,7 @@
 
 1. macOS 请下载 [**tigou_macOS_v0.2.3.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1142717/download/tigou_macOS_0.2.3.zip) ，解压缩后，将 踢狗.app 拷贝到 应用程序(Applications) 文件夹即可
 
-1. iOS 设备因为证书有数量限制的原因，需要购买至尊会员（￥ 5888，终身会员，免费升级，满一年后全额退还，退还仅限前 1,000 名至尊会员），如有需要请先到这里 [**提交 iOS 设备 UDID**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftools%2Fudid%3Fsl%3Dn7DO) ，然后添加**微信: TigouApp** 索要安装地址。
+1. iOS 设备因为证书有数量限制的原因，需要购买至尊会员（5888 元，享终身会员特权，永久免费升级，前 1,000 位至尊会员满一年后全额退还），如有需要请先到这里 [**提交 iOS 设备 UDID**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftools%2Fudid%3Fsl%3Dn7DO) ，然后添加**微信: TigouApp** 索要安装地址。
 
 ## 什么是踢狗法则
 
