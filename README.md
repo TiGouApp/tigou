@@ -1,7 +1,9 @@
 # 踢狗量化 App 已发布新版本 0.2.3
 
 > 新版本支持系统平台: Windows && 安卓(Android) && macOS && iOS(iPhone/iPad)
+
 > 如有任何疑问或建议请联系作者**微信: TigouApp**
+
 > 提示: 新版本发布后，所有旧版本下载地址都会失效。
 
 1. Windows 请下载 [**tigou_Windows_0.2.3.zip**](https://gitee.com/TiGou/tigou_quant/attach_files/1142724/download/tigou_Windows_0.2.3.zip) ，解压缩后，双击运行 踢狗.exe 即可。
