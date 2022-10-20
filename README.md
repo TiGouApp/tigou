@@ -6,7 +6,7 @@
 
 ## 踢狗量化 App 下载安装
 
-1. Windows 请下载 [**tigou_Windows_1.2.0.zip**](https://gitee.com/TiGou/tigou_quant/releases/download/1.2.1/tigou_Windows_1.2.0.zip) ，解压缩后，双击运行 踢狗.exe 即可。
+1. Windows 请下载 [**tigou_Windows_1.2.1.zip**](https://gitee.com/TiGou/tigou_quant/releases/download/1.2.1/tigou_Windows_1.2.1.zip) ，解压缩后，双击运行 踢狗.exe 即可。
 
 1. 安卓请下载 [**tigou_Android_1.2.1.apk**](https://gitee.com/TiGou/tigou_quant/releases/download/1.2.1/tigou_Android_1.2.1.apk) 进行安装，或 前往[**蒲公英下载安装**](https://gitee.com/link?target=https%3A%2F%2Fwww.pgyer.com%2Ftigou_android) 。
 
